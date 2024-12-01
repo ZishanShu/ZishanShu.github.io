@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am currently a PhD student in Computer Science and Technology at Peking University. My research interests focus on AI for Science, particularly in areas such as protein structure prediction, molecular dynamics, and Cryo-EM algorithms. 
+I am currently a PhD student👩🏻‍🎓 in Computer Science and Technology💻 at Peking University👩🏻‍💻. My research interests focus on AI for Science, particularly in areas such as protein structure prediction🧪, molecular dynamics🧬, and Cryo-EM algorithms🔬. 
 
 - **Phone**: (+86)156-0023-9851
 - **Email**: [zishanshu0602@163.com](mailto:zishanshu0602@163.com)
@@ -29,12 +29,3 @@ I am currently a PhD student in Computer Science and Technology at Peking Univer
 
 ### Complex Dynamics Equilibrium Distributions Prediction
 - Used MD dataset (MDVerse) and DIG module, combined with RoseTTAFold for protein dynamics conformational distribution prediction.
-
----
-
-## Papers Published
-
-1. **A Forecast Model Based on Convolutional Neural Network and Attention Mechanism for Passenger Car Sales** (2023 IEEE Transactions on Intelligent Transportation Systems)
-2. **Semi-supervised Learning-based Virtual Adversarial Training on Graph for Digital-twins-enabled Molecular Property Prediction** (Under Revision in IEEE JSAC)
-3. **Hybrid Portfolio Decision: Forecasting Sharpe Ratio with ARI-LSTM Method** (2023 International Conference on Modeling, Simulation and Computing Science)
-4. **Research on Model and Algorithm Optimization of Site Area Clustering Problems in Mobile Communication Networks** (2023 International Conference on Modeling, Simulation and Computing Science)
