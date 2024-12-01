@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zishan Shu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -35,9 +35,9 @@ author:
   orcid            : "https://orcid.org/0000-0002-2149-7517"
   
   # Social media
-  linkedin         : "https://www.linkedin.com/in/zishanshu/"
+  linkedin         : "https://www.linkedin.com/in/zishanshu"
   twitter          : "https://x.com/Zishan_shu"
-  zhihu            : "https://www.zhihu.com/people/f01a16c7e414c30ef4bc0fe2b4905cca"
+  zhihu            : "https://www.zhihu.com/people/cliochen-liao-liao"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
