@@ -1,7 +1,10 @@
 ---
-layout: page
-title: "Zishan Shu"
 permalink: /
+title: "Zishan Shu"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 ## About Me
