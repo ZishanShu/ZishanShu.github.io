@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am currently a PhD student👩🏻‍🎓 in Computer Science and Technology💻 at Peking University👩🏻‍💻. My research interests focus on AI for Science, particularly in areas such as protein structure prediction🧪, molecular dynamics🧬, and Cryo-EM algorithms🔬. 
+I am currently a PhD student👩🏻‍🎓 in Computer Science and Technology💻 at Peking University. My research interests focus on AI for Science, particularly in areas such as structure prediction🧪, molecular dynamics🧬, and Cryo-EM algorithms🔬. In addition, I am a Research Intern👩🏻‍💻 at the Microsoft Research Asia Machine Learning Group, working on machine learning applications in battery🔋.
 
 - **Phone**: (+86)156-0023-9851
 - **Email**: [zishanshu0602@163.com](mailto:zishanshu0602@163.com)
