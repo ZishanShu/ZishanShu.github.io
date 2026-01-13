@@ -24,5 +24,5 @@ I am currently a PhD student👩🏻‍🎓 in Computer Science and Technology�
 
 ## Experience
 
-- **Intern** in Machine Learning Group, *MSRA* (2025.07 – Present)
+- **Machine Learning Intern** in *MSRA* (2025.07 – Present)
   - Research Interests: AI for Battery, Chemistry-aware Foundation Model
