@@ -9,6 +9,7 @@ venue: 'IEEE Transactions on Intelligent Transportation Systems'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260243'
 citation: 'Y. Lu, Z. Shu, A. Li and H. Zhang, "A Real-Time Forecast Model Based on Convolutional Neural Network and Attention Mechanism for Passenger Car Sales in 5G Environment," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 3, pp. 2858-2868, March 2024, doi: 10.1109/TITS.2023.3311541.'
 ---
+---
 title: "MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction"
 collection: publications
 category: oral
