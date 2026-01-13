@@ -17,8 +17,8 @@ Education
 Experience
 ======
 * Machine Learning Intern, Microsoft, Microsoft Research Asia \hfill Jul 2025 – Present
-- Unlocking Battery Futures with Chemistry-Aware Foundation Models — Nature Chemistry (Invited).
-- Chemistry-aware battery degradation prediction under simulated real-world cyclic protocols — Nature Communications (Minor Revision).
+  - Unlocking Battery Futures with Chemistry-Aware Foundation Models — Nature Chemistry (Invited).
+  - Chemistry-aware battery degradation prediction under simulated real-world cyclic protocols — Nature Communications (Minor Revision).
     
 Publications
 ======
