@@ -14,16 +14,11 @@ Education
 * Ph.D in Computer Science and Technology, Peking University, 2029 (expected)
 * B.S. in Statistics, Minzu University of China, 2024
   
-Skills
+Experience
 ======
-* Programming Languages
-  * Python, C/C++, MATLAB, LaTeX, R, SAS, SPSS
-* Machine Learning
-  * SVM, Random Forest, CNN, Attention Mechanism, Deep Learning
-* Tools & Libraries
-  * PyTorch, TensorFlow, Scikit-learn, Biopython, CryoDRGN, Relion
-* Software
-  * Jupyter, Git, Docker, Linux
+* Machine Learning Intern, Microsoft, Microsoft Research Asia \hfill Jul 2025 – Present
+- Unlocking Battery Futures with Chemistry-Aware Foundation Models — Nature Chemistry (Invited).
+- Chemistry-aware battery degradation prediction under simulated real-world cyclic protocols — Nature Communications (Minor Revision).
     
 Publications
 ======
