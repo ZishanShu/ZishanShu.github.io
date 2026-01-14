@@ -44,7 +44,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Paper List'    
   conferences:
     title: 'Conference Papers'
 
