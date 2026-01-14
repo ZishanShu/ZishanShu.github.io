@@ -7,5 +7,5 @@ excerpt: "Activity cliff prediction is a critical task in drug discovery and mat
 venue: "International Joint Conferences on Artificial Intelligence (IJCAI)"
 date: 2025-04-25
 paperurl: "https://www.ijcai.org/proceedings/2025/0860.pdf"
-citation: 'Shu, Zishan and Deng, Yufan and Zhang, Hongyu and Nie, Zhiwei and Chen, Jie, "MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction" in Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence, {IJCAI-25}, 7733--7741, August 2025.'
+citation: 'Shu, Zishan and Deng, Yufan and Zhang, Hongyu and Nie, Zhiwei and Chen, Jie, "MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction" in Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence, {IJCAI-25}, 7733--7741, August 2025, doi: 10.24963/ijcai.2025/860.'
 ---
