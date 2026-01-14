@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zishan Shu / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zishan Shu"
 description              : &description "personal description"
 url                      : https://zishanshu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
